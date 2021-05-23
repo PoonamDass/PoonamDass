@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Poonam</h1>
+<h1 align="center">Hi 👋🏾, I'm Poonam</h1>
 <h3 align="center">A passionate full stack web developer looking to collaborate with folks in the nonprofit ecosystem to build and grow communities one byte at a time.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
